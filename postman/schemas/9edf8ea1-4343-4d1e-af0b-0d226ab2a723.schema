@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   version: v1
-  title: repo4rrr
+  title: repo4rrrr
 servers:
   - url: 'http://localhost:3000'
 paths:
